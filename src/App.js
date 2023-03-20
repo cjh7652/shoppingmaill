@@ -22,17 +22,17 @@ function App() {
       <Container>
             <Row>
                 <Col>
-                    <img src='./img/best1.gif' alt="" />
+                    <img src='./img/best1.git' alt="" />
                     <h4>상품명</h4>
                     <p>상품설명</p>
                 </Col>
                 <Col>
-                <img src='./img/best2.gif' alt="" />
+                <img src='' alt="" />
                     <h4>상품명</h4>
                     <p>상품설명</p>
                 </Col>
                 <Col>
-                <img src='./img/best3.gif' alt="" />
+                <img src='' alt="" />
                     <h4>상품명</h4>
                     <p>상품설명</p>
                 </Col>
